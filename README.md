@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi 👋, I'm Arnaud
+### Industrial Manager trained in data analysis techniques
+----
+***🔭 I’m currently looking for a job ***
+ ----
+### My professional knowledge (more than 15 years):
+* Organization, optimization
+* Managing production teams
 
-<!--
-**AT44000/AT44000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My new knowledge : Machine & Deep Learning
+* Python / SQL
+* Pandas /  Numpy
+* Scikit-learn
+* Tensorflow
+ ----
+ 
+- 📫 How to reach me: [My Linkedin Profil](https://www.linkedin.com/in/arnaud-taillard-073239109/)
